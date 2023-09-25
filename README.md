@@ -6,9 +6,11 @@
 ## iOS Study team A
 | 김수민 | 김민지 | 박현수 | 신혜림 |
 | :---------:|:----------:|:----------:|:----------:|
+| 루시 | 미니 | 숲 | 제로 |
 | [kimsoomin20221789](https://github.com/kimsoomin20221789) | [kxmmxnzx](https://github.com/kxmmxnzx) | [00yhsp](https://github.com/00yhsp) | []() |
 
 ## iOS Study team B
 | 김보미 | 임아영 | 정민지 | 황채웅 |
 | :---------:|:----------:|:----------:|:----------:|
+| 블루 | 마요 | 전얀 | 웅아 |
 | [calledBlu](https://github.com/calledBlu) | [ayoung1201](https://github.com/ayoung1201) | [wjdalswl](https://github.com/wjdalswl) | [woonge0930](https://github.com/woonge0930) |
